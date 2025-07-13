@@ -47,12 +47,6 @@ const Footer = () => {
               >
                 sinagahasan17@gmail.com
               </a>
-              <a
-                href="tel:+1234567890"
-                className="block text-gray-300 hover:text-blue-400 transition-colors duration-200"
-              >
-                +62 85270153528
-              </a>
               <div className="flex space-x-4 pt-2">
                 <a
                   href="https://www.linkedin.com/in/hasan-sinaga-375122271/"
